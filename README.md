@@ -2,6 +2,11 @@
 
 ---
 
+# **Article**
+
+https://itssi-journal.com/index.php/ittsi/article/view/558
+---
+
 ## **Subject Matter**  
 UAV traffic management processes, including algorithms for processing large data streams in real time to ensure safety, efficiency, and optimal flight routing.
 
